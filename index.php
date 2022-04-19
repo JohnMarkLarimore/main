@@ -18,6 +18,7 @@
 	echo " suggetions for intersting data sets tha you'd like to see a picture of, let me know. Let's collaborate!";
 	echo "</p></body>";
 	echo "<a href=mathvideos.html>This link</a> takes you to my collection of Youtube math problems layed out differently.";
+	echo "<p>Testing github</p>"; 
 
 
 	
